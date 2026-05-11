@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-icon-font-reducer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Reduce icon font files automatically during Vite builds.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -13,7 +13,9 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "build": "tsup",
@@ -41,5 +43,12 @@
     "tsup": "^8.5.1",
     "typescript": "^6.0.3",
     "vitest": "^4.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArielLeyva/icon-font-reducer-vite-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArielLeyva/icon-font-reducer-vite-plugin/issues"
   }
 }
