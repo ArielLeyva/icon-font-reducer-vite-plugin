@@ -1,3 +1,5 @@
+![Vite compatibility](https://registry.vite.dev/api/badges?package=vite-plugin-icon-font-reducer&tool=vite)
+
 # vite-plugin-icon-font-reducer
 
 A Vite plugin that automatically reduces icon font files during production builds using [icon-font-reducer](https://github.com/ArielLeyva/icon-font-reducer).
