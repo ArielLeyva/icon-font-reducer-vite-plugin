@@ -6,4 +6,5 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "fix"
-    pull-request-branch-name: separator: "-"
+    pull-request-branch-name:
+      separator: "-"
